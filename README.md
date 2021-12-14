@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sHiLpA12AnAnD
 - 👀 I’m aspiring to be a Business Analyst
-- 🌱 I’m currently learning Business Analytics | Data Analytics
+- 🌱 I’m currently learning Business Analytics | Data Analytics and working on sample use cases
 
 
 <!---
