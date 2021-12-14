@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sHiLpA12AnAnD
-- 👀 I’m interested in Data Science Projects
-- 🌱 I’m currently learning ML and Analytics
-- I am also Interested to work as a Business Analyst
+- 👀 I’m interested in Business Analytics
+- 🌱 I’m currently learning Business Analytics | Data Analytics
 
 
 <!---
