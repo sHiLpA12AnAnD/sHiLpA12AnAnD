@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sHiLpA12AnAnD
-- 👀 I’m interested in Business Analytics
+- 👀 I’m aspiring to be a Business Analyst
 - 🌱 I’m currently learning Business Analytics | Data Analytics
 
 
